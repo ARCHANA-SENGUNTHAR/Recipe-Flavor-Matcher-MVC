@@ -1,0 +1,36 @@
+# ===== Java Compiled Files =====
+
+bin/
+*.class
+
+# ===== Logs =====
+
+*.log
+
+# ===== OS Generated Files =====
+
+.DS_Store
+Thumbs.db
+
+# ===== IDE / Editor Files =====
+
+.vscode/
+.idea/
+*.iml
+
+# ===== Environment / Secrets =====
+
+*.env
+config/db.properties
+config.properties
+
+# ===== Dependency JARs (optional) =====
+
+# Uncomment next line IF you do NOT want to upload MySQL connector
+
+# lib/mysql-connector-*.jar
+
+# ===== Temporary Files =====
+
+*.tmp
+*.swp
