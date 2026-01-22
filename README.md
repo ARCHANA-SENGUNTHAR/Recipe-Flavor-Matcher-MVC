@@ -114,5 +114,3 @@ java -cp "bin:lib/*" app.MainApp
 * MySQL database integration
 * Command-line Java project execution
 * Clean code organization
-
-s developed for **educational purposes**.
